@@ -2,3 +2,8 @@ img{
     height: auto;
     width: 500px;
 }
+
+*{
+    background-color: beige;
+    font-family: 'Quicksand', sans-serif;
+}
